@@ -1,0 +1,23 @@
+﻿@import url('fancytext.css');
+body {
+    overflow-x: hidden;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    color: black;
+}
+
+.card-title {
+    color: black;
+}
+
+
+/* ********** mobile ********** */
+@media screen and (max-width: 600px) {
+
+    #catInstructions {
+    font-size: 10px;
+    }
+
+}
+
+
